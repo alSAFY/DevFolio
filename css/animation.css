@@ -1,0 +1,357 @@
+@keyframes typing{
+    0% { 
+        content: " ";
+        border-right: 2px solid #fff;
+    }
+    1% { 
+        content: "C";
+    }
+    2% { 
+        content: "CE";
+        border-right: 2px solid #fff;
+    }
+    3% { 
+        content: "CEO";
+    }
+    4% { 
+        content: "CEO ";
+        border-right: 2px solid #fff;
+    }
+    5% { 
+        content: "CEO D";
+    }
+    6% { 
+        content: "CEO De";
+        border-right: 2px solid #fff;
+    }
+    7% { 
+        content: "CEO Dev";
+    }
+    8% { 
+        content: "CEO DevF";
+        border-right: 2px solid #fff;
+    }
+    9% { 
+        content: "CEO DevFo";
+    }
+    10% { 
+        content: "CEO DevFol";
+        border-right: 2px solid #fff;
+    }
+    11% { 
+        content: "CEO DevFoli";
+    }
+    12% { 
+        content: "CEO DevFolio";
+        border-right: 2px solid #fff;
+    }
+    13% { 
+        content: "CEO DevFolio";
+    }
+    14% { 
+        content: "CEO DevFolio";
+        border-right: 2px solid #fff;
+    }
+    15% { 
+        content: "CEO DevFoli";
+    }
+    16% { 
+        content: "CEO DevFol";
+        border-right: 2px solid #fff;
+    }
+    17% { 
+        content: "CEO DevFo";
+        border-right: 2px solid #fff;
+    }
+    18% { 
+        content: "CEO DevF";
+    }
+    19% { 
+        content: "CEO Dev";
+        border-right: 2px solid #fff;
+    }
+    20% { 
+        content: "CEO De";
+    }
+    21% { 
+        content: "CEO D";
+        border-right: 2px solid #fff;
+    }
+    22% { 
+        content: "CEO ";
+    }
+    23% { 
+        content: "CEO";
+        border-right: 2px solid #fff;
+    }
+    24% { 
+        content: "CE";
+    }
+    25% { 
+        content: "C";
+        border-right: 2px solid #fff;
+    }
+    26% { 
+        content: "";
+    }
+    27% { 
+        content: "W";
+        border-right: 2px solid #fff;
+    }
+    28% { 
+        content: "We";
+    }
+    29% { 
+        content: "Web";
+        border-right: 2px solid #fff;
+    }
+    30% { 
+        content: "Web ";
+    }
+    31% { 
+        content: "Web D";
+        border-right: 2px solid #fff;
+    }
+    32% { 
+        content: "Web De";
+    }
+    33% { 
+        content: "Web Dev";
+        border-right: 2px solid #fff;
+    }
+    34% { 
+        content: "Web Deve";
+    }
+    35% { 
+        content: "Web Devel";
+        border-right: 2px solid #fff;
+    }
+    36% { 
+        content: "Web Develo";
+    }
+    37% { 
+        content: "Web Develop";
+        border-right: 2px solid #fff;
+    }
+    38% { 
+        content: "Web Develope";
+    }
+    39% { 
+        content: "Web Developer";
+        border-right: 2px solid #fff;
+    }
+    40% { 
+        content: "Web Developer";
+    }
+    41% { 
+        content: "Web Developer";
+        border-right: 2px solid #fff;
+    }
+    42% { 
+        content: "Web Develope";
+    }
+    43% { 
+        content: "Web Develop";
+        border-right: 2px solid #fff;
+    }
+    44% { 
+        content: "Web Develo";
+    }
+    45% { 
+        content: "Web Devel";
+        border-right: 2px solid #fff;
+    }
+    46% { 
+        content: "Web Deve";
+        border-right: 2px solid #fff;
+    }
+    47% { 
+        content: "Web Dev";
+    }
+    48% { 
+        content: "Web De";
+        border-right: 2px solid #fff;
+    }
+    49% { 
+        content: "Web Des";
+    }
+    50% { 
+        content: "Web Desi";
+        border-right: 2px solid #fff;
+    }
+    51% { 
+        content: "Web Desig";
+    }
+    52% { 
+        content: "Web Design";
+        border-right: 2px solid #fff;
+    }
+    53% { 
+        content: "Web Designe";
+    }
+    54% { 
+        content: "Web Designer";
+        border-right: 2px solid #fff;
+    }
+    55% { 
+        content: "Web Designer";
+    }
+    56% { 
+        content: "Web Designe";
+        border-right: 2px solid #fff;
+    }
+    57% { 
+        content: "Web Design";
+    }
+    58% { 
+        content: "Web Desig";
+        border-right: 2px solid #fff;
+    }
+    59% { 
+        content: "Web Desi";
+    }
+    60% { 
+        content: "Web Des";
+        border-right: 2px solid #fff;
+    }
+    61% { 
+        content: "Web De";
+    }
+    62% { 
+        content: "Web D";
+        border-right: 2px solid #fff;
+    }
+    63% { 
+        content: "Web";
+    }
+    64% { 
+        content: "We";
+        border-right: 2px solid #fff;
+    }
+    65% { 
+        content: "W";
+    }
+    66% { 
+        content: "";
+        border-right: 2px solid #fff;
+    }
+    67% { 
+        content: "F";
+    }
+    68% { 
+        content: "Fr";
+        border-right: 2px solid #fff;
+    }
+    69% { 
+        content: "Fro";
+    }
+    70% { 
+        content: "Fron";
+        border-right: 2px solid #fff;
+    }
+    71% { 
+        content: "Front";
+    }
+    72% { 
+        content: "Fronte";
+        border-right: 2px solid #fff;
+    }
+    73% { 
+        content: "Fronten";
+    }
+    74% { 
+        content: "Frontend ";
+        border-right: 2px solid #fff;
+    }
+    75% { 
+        content: "Frontend D";
+    }
+    76% { 
+        content: "Frontend De";
+        border-right: 2px solid #fff;
+    }
+    77% { 
+        content: "Frontend Dev";
+    }
+    78% { 
+        content: "Frontend Deve";
+        border-right: 2px solid #fff;
+    }
+    79% { 
+        content: "Frontend Devel";
+    }
+    80% { 
+        content: "Frontend Develo";
+        border-right: 2px solid #fff;
+    }
+    81% { 
+        content: "Frontend Develop";
+    }
+    82% { 
+        content: "Frontend Develope";
+        border-right: 2px solid #fff;
+    }
+    83% { 
+        content: "Frontend Developer";
+    }
+    84% { 
+        content: "Frontend Develope";
+        border-right: 2px solid #fff;
+    }
+    85% { 
+        content: "Frontend Develop";
+    }
+    86% { 
+        content: "Frontend Develo";
+        border-right: 2px solid #fff;
+    }
+    87% { 
+        content: "Frontend Devel";
+    }
+    88% { 
+        content: "Frontend Deve";
+        border-right: 2px solid #fff;
+    }
+    89% { 
+        content: "Frontend Dev";
+    }
+    90% { 
+        content: "Frontend De";
+        border-right: 2px solid #fff;
+    }
+    91% { 
+        content: "Frontend D";
+    }
+    92% { 
+        content: "Frontend";
+        border-right: 2px solid #fff;
+    }
+    93% { 
+        content: "Fronten";
+    }
+    94% { 
+        content: "Fronte";
+        border-right: 2px solid #fff;
+    }
+    95% { 
+        content: "Front";
+    }
+    96% { 
+        content: "Fron";
+        border-right: 2px solid #fff;
+    }
+    97% { 
+        content: "Fro";
+    }
+    98% { 
+        content: "Fr";
+        border-right: 2px solid #fff;
+    }
+    99% { 
+        content: "F";
+    }
+    100% { 
+        content: "";
+        border-right: 2px solid #fff;
+    }
+}
